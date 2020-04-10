@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: a8b68b7d6465f5b48a38cec09737ff95
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone
+    100004: Bone.001
+    100006: Bone.001_end
+    100008: Bone.002
+    100010: Bone.002_end
+    100012: Camera
+    100014: Camera.001
+    100016: Camera.002
+    100018: Camera.003
+    100020: Circle.001
+    100022: door
+    100024: door base
+    100026: door HP
+    100028: door.a.base
+    100030: door.a.HP
+    100032: door.b.base
+    100034: door.b.HP
+    100036: door.frame
+    100038: door.frame.001
+    100040: door.frame.002
+    100042: door.frame.003
+    100044: door.frame.base
+    100046: door.frame.HP
+    100048: Lamp.001
+    100050: Plane
+    100052: Plane.001
+    100054: Point
+    100056: Point.001
+    100058: Point.002
+    100060: Point.003
+    100062: Point.004
+    100064: //RootNode
+    400000: Armature
+    400002: Bone
+    400004: Bone.001
+    400006: Bone.001_end
+    400008: Bone.002
+    400010: Bone.002_end
+    400012: Camera
+    400014: Camera.001
+    400016: Camera.002
+    400018: Camera.003
+    400020: Circle.001
+    400022: door
+    400024: door base
+    400026: door HP
+    400028: door.a.base
+    400030: door.a.HP
+    400032: door.b.base
+    400034: door.b.HP
+    400036: door.frame
+    400038: door.frame.001
+    400040: door.frame.002
+    400042: door.frame.003
+    400044: door.frame.base
+    400046: door.frame.HP
+    400048: Lamp.001
+    400050: Plane
+    400052: Plane.001
+    400054: Point
+    400056: Point.001
+    400058: Point.002
+    400060: Point.003
+    400062: Point.004
+    400064: //RootNode
+    2000000: Camera
+    2000002: Camera.001
+    2000004: Camera.002
+    2000006: Camera.003
+    2100000: floor
+    2100002: door PBR
+    2100004: glass
+    2100006: joint
+    2100008: peinture3
+    2100010: peinture2
+    2100012: vitre
+    2100014: metal
+    2100016: peinture1
+    2100018: Material.001
+    2100020: pbr
+    2300000: Circle.001
+    2300002: door.a.base
+    2300004: door.a.HP
+    2300006: door.b.base
+    2300008: door.b.HP
+    2300010: door.frame
+    2300012: door.frame.001
+    2300014: door.frame.002
+    2300016: door.frame.003
+    2300018: door.frame.base
+    2300020: door.frame.HP
+    2300022: Plane
+    2300024: Plane.001
+    3300000: Circle.001
+    3300002: door.a.base
+    3300004: door.a.HP
+    3300006: door.b.base
+    3300008: door.b.HP
+    3300010: door.frame
+    3300012: door.frame.001
+    3300014: door.frame.002
+    3300016: door.frame.003
+    3300018: door.frame.base
+    3300020: door.frame.HP
+    3300022: Plane
+    3300024: Plane.001
+    4300000: Plane.001
+    4300002: door.frame
+    4300004: door.frame.003
+    4300006: door.frame.002
+    4300008: Circle.001
+    4300010: door.b.HP
+    4300012: door.a.HP
+    4300014: door.frame.HP
+    4300016: door.frame.base
+    4300018: door.a.base
+    4300020: door.b.base
+    4300022: Plane
+    4300024: door.frame.001
+    7400000: Armature|DoorClosed
+    7400002: Armature|DoorOpenClose
+    7400004: Armature|DoorOpened
+    9500000: //RootNode
+    10800000: Lamp.001
+    10800002: Point
+    10800004: Point.001
+    10800006: Point.002
+    10800008: Point.003
+    10800010: Point.004
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
