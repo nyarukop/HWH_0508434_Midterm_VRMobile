@@ -3,7 +3,10 @@ guid: 879b86b091d383f468d09b9166da69e0
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - anibox: {instanceID: 0}
+  - boxOpen: {fileID: 8300000, guid: aed39d5f4376f83419a237796c02cd3b, type: 3}
+  - aud: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

@@ -75,27 +75,27 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11332}
     - Class: 114
-      Script: {instanceID: 11614}
+      Script: {instanceID: 11616}
     - Class: 114
-      Script: {instanceID: 11676}
+      Script: {instanceID: 11678}
     - Class: 114
-      Script: {instanceID: 11926}
+      Script: {instanceID: 11928}
     - Class: 114
-      Script: {instanceID: 12888}
+      Script: {instanceID: 12890}
     - Class: 114
-      Script: {instanceID: 13266}
+      Script: {instanceID: 13268}
     - Class: 114
-      Script: {instanceID: 13296}
+      Script: {instanceID: 13298}
     - Class: 114
-      Script: {instanceID: 13350}
+      Script: {instanceID: 13352}
     - Class: 114
-      Script: {instanceID: 14694}
+      Script: {instanceID: 14702}
     - Class: 114
-      Script: {instanceID: 14696}
+      Script: {instanceID: 14704}
     - Class: 114
-      Script: {instanceID: 14866}
+      Script: {instanceID: 14874}
     - Class: 114
-      Script: {instanceID: 14868}
+      Script: {instanceID: 14876}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -155,7 +155,7 @@ ScriptsOnlyBuild:
     className: EditorCameraOriginDict
   - hash:
       serializedVersion: 2
-      Hash: 6dc6b5f9942106087d4226788d755dda
+      Hash: 06aa0b0e93baa9e8a5fb335716c01777
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: GameManager
@@ -828,4 +828,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/sci-fi/space.unity
-  playerPath: C:/Users/user/Desktop/HWH_0508434_Midterm_VRMobile/SpaceVR.apk
+  playerPath: C:/Users/User/Documents/GitHub/HWH_0508434_Midterm_VRMobile/SpaceVR.apk
